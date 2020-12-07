@@ -1,4 +1,4 @@
-# steps ti run this application
+# steps to run this application
 step 1 : cd to the directory containing package.json file
 step 2 : npm install
 step 3 : npm start
