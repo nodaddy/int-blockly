@@ -1,0 +1,42 @@
+.flex-container{
+margin:0px;
+padding:0px;
+}
+
+.c-select-tab {
+    border-top-right-radius: 10px !important;
+    border-top-left-radius: 10px !important;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border: 0px;
+    color:white;
+    background-color: #A0A3BD;
+}
+
+.c-select-tab-in-focus{
+    border-top-right-radius: 10px !important;
+    border-top-left-radius: 10px !important;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border: 0px;
+    color:white;
+    background-color:#14142B ;
+}
+
+.c-select-tab-in-focus:focus {
+    outline: none !important;
+}
+
+ 
+
+.c-select-tab:focus {
+    outline: none;
+}
