@@ -1,3 +1,8 @@
+# steps 
+step 1 : cd to the directory containing package.json file
+step 2 : npm install
+step 3 : npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
